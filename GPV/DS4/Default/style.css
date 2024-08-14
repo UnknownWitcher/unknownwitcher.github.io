@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling */
 .controller.ds4 {
-    background: url(assets/base.svg) !important;
+    background: url(assets/base.svg) no-repeat;
     height: 598px;
     width: 806px;
 }
@@ -23,7 +23,7 @@
 .ds4 .trigger {
     width: 99px;
     height: 100%;
-    background: url(assets/triggers.svg);
+    background: url(assets/triggers.svg) no-repeat;
     opacity: 0;
 }
 
@@ -118,7 +118,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .back, .ds4 .start {
-    background: url(ps4-assets/start.svg);
+    background: url(ps4-assets/start.svg) no-repeat;
     width: 28px;
     height: 46px;
     opacity: 0;
@@ -153,7 +153,7 @@ background-position: 0 -70px;
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(assets/face.svg);
+    background: url(assets/face.svg) no-repeat;
 }
 
 .ds4 .button.pressed {
@@ -193,7 +193,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(assets/sticks.svg);
+    background: url(assets/sticks.svg) no-repeat;
     height: 94px;
     width: 94px;
 }
@@ -225,7 +225,7 @@ background-position: 0 -70px;
 }
 
 .ds4 .face {
-    background: url(assets/dpad.svg);
+    background: url(assets/dpad.svg) no-repeat;
     position: absolute;
 }
 
