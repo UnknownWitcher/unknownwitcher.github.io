@@ -1,0 +1,36 @@
+/*BEGIN PS4 Controller Styling */
+.controller.ds4 {
+    background: url(assets/base.svg);
+}
+.ds4.disconnected {
+    background: none;
+}
+.ds4.disconnected div {
+    display: none;
+}
+.ds4 .trigger {
+    background: url(assets/triggers.svg);
+}
+.ds4 .bumper {
+    background: url(assets/bumper.svg) no-repeat;
+}
+.ds4 .touchpad.pressed {
+    background: url(assets/touchpad.svg) no-repeat center;
+}
+.ds4 .meta.pressed {
+    background: url(assets/meta.svg) no-repeat center;
+}
+.ds4 .back, .ds4 .start {
+    background: url(ps4-assets/start.svg);
+}
+.ds4 .button {
+    background: url(assets/face.svg);
+}
+.ds4 .stick {
+    background: url(assets/sticks.svg);
+}
+.ds4 .face {
+    background: url(assets/dpad.svg);
+}
+
+/*END PS4 Controller Styling*/
