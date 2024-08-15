@@ -30,7 +30,7 @@
 }
 /* Positions are ignored by GPV not sure why but they had to be added */
 .ds4 .trigger.right {
-    background-position-x: 99px 1 !important;
+    background-position-x: 99px !important;
 }
 .ds4 .face.up {
     background-position: -37px 0 !important;
