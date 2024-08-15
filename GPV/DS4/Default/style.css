@@ -1,4 +1,4 @@
-.controller.ds4 {
+.controller.ds4.white {
   background-image: url(assets/base.png) !important;
 }
 
@@ -14,18 +14,18 @@
   background-image: url(assets/face.png) !important;
 }
 
-.ds4 .bumper {
+.ds4.white .bumper {
     background-image: url(assets/bumper.png) !important;
 }
 
-.ds4 .trigger {
+.ds4.white .trigger {
     background-image: url(assets/triggers.png) !important;
 }
 
-.ds4 .touchpad.pressed {
+.ds4.white .touchpad.pressed {
     background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/touchpad.svgz) !important;
 }
 
-.ds4 .back, .ds4 .start {
+.ds4.white .back, .ds4.white .start {
     background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/start.svgz) !important;
 }
