@@ -1,12 +1,12 @@
-.controller.ds4.white .active {
+.controller.ds4.white {
   background-image: url(assets/base.svg) !important;
 }
 
-.ds4.disconnected {
+.ds4.white.disconnected {
   background: none !important;
 }
 
-.ds4.disconnected div {
+.ds4.white.disconnected div {
     display: none !important;
 }
 
