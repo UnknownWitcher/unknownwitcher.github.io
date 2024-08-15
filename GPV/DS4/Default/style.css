@@ -1,13 +1,9 @@
-.controller.ds4.white {
-  background-image: url(assets/base.svg) !important;
-}
-
 .ds4.white.disconnected {
-  background: none !important;
+  background: none;
 }
 
-.ds4.white.disconnected div {
-    display: none !important;
+.ds4.white {
+  background-image: url(assets/base.svg) !important;
 }
 
 .ds4.white .stick {
