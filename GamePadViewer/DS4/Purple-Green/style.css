@@ -56,3 +56,27 @@
 .ds4 .button.y {
     background-position: 55px 0 !important;
 }
+.ds4 .face.up.pressed {
+    background-position-y: 52px !important;
+}
+.ds4 .face.down.pressed {
+    background-position-y: 52px !important;
+}
+.ds4 .face.left.pressed {
+    background-position-y: 52px !important;
+}
+.ds4 .face.right.pressed {
+    background-position-y: 52px !important;
+}
+.ds4 .button.a.pressed {
+    background-position: 55px !important;
+}
+.ds4 .button.b.pressed {
+    background-position-y: 55px !important;
+}
+.ds4 .button.x.pressed {
+    background-position-y: 55px !important;
+}
+.ds4 .button.y.pressed {
+    background-position-y: 55px !important;
+}
