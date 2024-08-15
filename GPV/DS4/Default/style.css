@@ -1,25 +1,25 @@
 .controller.ds4.white {
-  background-image: url(assets/base.png) !important;
+  background-image: url(assets/base.svg) !important;
 }
 
 .ds4.white .stick {
-  background-image: url(assets/sticks.png) !important;
+  background-image: url(assets/sticks.svg) !important;
 }
 
 .ds4.white .face {
-  background-image: url(assets/dpad.png) !important;
+  background-image: url(assets/dpad.svg) !important;
 }
 
 .ds4.white .button {
-  background-image: url(assets/face.svg) !important;
+  background-image: url(assets/buttons.svg) !important;
 }
 
 .ds4.white .bumper {
-    background-image: url(assets/bumper.png) !important;
+    background-image: url(assets/bumper.svg) !important;
 }
 
 .ds4.white .trigger {
-    background-image: url(assets/triggers.png) !important;
+    background-image: url(assets/triggers.svg) !important;
 }
 
 .ds4.white .touchpad.pressed {
