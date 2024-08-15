@@ -1,38 +1,27 @@
-/*BEGIN PS4 Controller Styling */
-.controller.ds4 {
-    background: url(assets/base.png) no-repeat;
-}
-.ds4.disconnected {
-    background: None;
+.controller.ds4.white {
+  background-image: url(assets/base.png) !important;
 }
 
-.ds4.disconnected div {
-    display: none;
+.ds4.white .stick {
+  background-image: url(assets/sticks.png) !important;
 }
 
-.ds4 .trigger {
-    background: url(assets/triggers.png) no-repeat;
-}
-.ds4 .bumper {
-    background: url(assets/bumper.png) no-repeat;
-}
-.ds4 .touchpad.pressed {
-    background: url(assets/touchpad.png) no-repeat center;
-}
-.ds4 .meta.pressed {
-    background: url(assets/meta.png) no-repeat center;
-}
-.ds4 .back, .ds4 .start {
-    background: url(ps4-assets/start.png) no-repeat;
-}
-.ds4 .button {
-    background: url(assets/face.png) no-repeat;
-}
-.ds4 .stick {
-    background: url(assets/sticks.png) no-repeat;
-}
-.ds4 .face {
-    background: url(assets/dpad.png) no-repeat;
+.ds4.white .face {
+  background-image: url(assets/dpad.png) !important;
 }
 
-/*END PS4 Controller Styling*/
+.ds4.white .bumper {
+    background-image: url(assets/bumper.png) !important;
+}
+
+.ds4.white .trigger {
+    background-image: url(assets/triggers.png) !important;
+}
+
+.ds4.white .touchpad.pressed {
+    background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/touchpad.svgz) !important;
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(https://uncleclapton.github.io/GamepadViewer-PurpleWhiteSkin/svgs/start.svgz) !important;
+}
