@@ -2,6 +2,10 @@
   background-image: url(assets/base.svg) !important;
 }
 
+.controller.ds4.disconnected {
+  display: none !important;
+}
+
 .ds4.white .stick {
   background-image: url(assets/sticks.svg) !important;
 }
