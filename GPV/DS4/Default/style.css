@@ -10,6 +10,10 @@
   background-image: url(assets/dpad.png) !important;
 }
 
+.ds4.white .button {
+  background-image: url(assets/face.png) !important;
+}
+
 .ds4.white .bumper {
     background-image: url(assets/bumper.png) !important;
 }
