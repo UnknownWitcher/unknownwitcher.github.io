@@ -28,3 +28,31 @@
 .ds4 .button {
     background: url(assets/face.svg) !important;
 }
+/* Positions are ignored by GPV not sure why but they had to be added */
+.ds4 .trigger.right {
+    background-position-x: 99px 1;
+}
+.ds4 .face.up {
+    background-position: -37px 0;
+}
+.ds4 .face.down {
+    background-position: 0px 0;
+}
+.ds4 .face.left {
+    background-position: 104px 0;
+}
+.ds4 .face.right {
+    background-position: 52px 0;
+}
+.ds4 .button.a {
+    background-position: 0px 0;
+}
+.ds4 .button.b {
+    background-position: -57px 0;
+}
+.ds4 .button.x {
+    background-position: -113px 0;
+}
+.ds4 .button.y {
+    background-position: 55px 0;
+}
