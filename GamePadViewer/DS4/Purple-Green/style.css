@@ -25,3 +25,6 @@
 .ds4 .face {
     background: url(assets/dpad.svg) !important;
 }
+.ds4 .button {
+    background: url(assets/face.svg) !important;
+}
